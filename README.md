@@ -18,7 +18,13 @@ El volumen total de llamadas es de 444 mil llamadas. Es un número considerablem
 # ¿Cuáles son los cuellos de botella? ¿En qué días? ¿En qué bandas horarias?
 
 Como se puede observar en la primera imágen, los primeros días de semana son los días en donde más se realizan llamadas y creemos nosotros que es por la actividad laboral en esos días al igual que los horarios, que donde más se llama es aproximadamente a las 15 horas debido que en muchos lugares es horario de cierre.
+
+
+
 ![Tercera imagen](img/3.jpg)
+
+
+
 
 ![Cuarta imagen](img/4.jpg)
 
